@@ -6,11 +6,12 @@
     - [Habitaciones](#habitaciones)
     - [Detalle Habitación](#detalle-habitacion)
 
-##Introduccion
+
+## Introducción
 
 En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de la maquetación llevada a cabo para el Hotel Montíboli con el objetivo de facilitar su integración con el CMS pertinente.
 
-##Librerías de terceros
+## Librerías de terceros
 - Bootstrap v3.3.7
 - jquery v.12.4
 - html5shiv v.7.3
