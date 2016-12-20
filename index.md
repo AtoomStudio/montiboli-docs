@@ -13,9 +13,9 @@ En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de l
 
 ## Librerías de terceros
 
-**Bootstrap** v3.3.7 - [Docs]()
+##### Bootstrap v3.3.7 - [Docs]()
 
-**jQuery** v.12.4 - [Docs]()
+##### jQuery v.12.4 - [Docs]()
 
 **html5shiv** v.7.3 - [Docs]()
 
