@@ -13,12 +13,14 @@ En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de l
 
 ## Librerías de terceros
 
-### Bootstrap v3.3.7 - [Docs]()
+**Bootstrap** v3.3.7 - [Docs]()
 
-### jquery v.12.4 - [Docs]()
+**jQuery** v.12.4 - [Docs]()
 
-- html5shiv v.7.3 - [Docs]()
-    - Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
+**html5shiv** v.7.3 - [Docs]()
+ 
+Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
+
 - respondJs v.4.2 - [Docs]()
     - Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
 - jquery-placeholder v.3.1 - [Docs]()
