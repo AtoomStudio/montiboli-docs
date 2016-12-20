@@ -12,8 +12,11 @@
 En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de la maquetación llevada a cabo para el Hotel Montíboli con el objetivo de facilitar su integración con el CMS pertinente.
 
 ## Librerías de terceros
+
 ### Bootstrap v3.3.7 - [Docs]()
+
 ### jquery v.12.4 - [Docs]()
+
 - html5shiv v.7.3 - [Docs]()
     - Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
 - respondJs v.4.2 - [Docs]()
