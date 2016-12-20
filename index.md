@@ -1,4 +1,29 @@
-## Welcome to GitHub Pages!!
+## Índice
+- [Introducción](#introduccion)
+- [Librerías de terceros](#librerias-de-terceros)
+- [Páginas](#paginas)
+    - [Inicio](#inicio)
+    - [Habitaciones](#habitaciones)
+    - [Detalle Habitación](#detalle-habitacion)
+
+##Introduccion
+
+En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de la maquetación llevada a cabo para el Hotel Montíboli con el objetivo de facilitar su integración con el CMS pertinente.
+
+##Librerías de terceros
+- Bootstrap v3.3.7
+- jquery v.12.4
+- html5shiv v.7.3
+- respondJs v.4.2
+- jquery-placeholder v.3.1
+- moment v2.17.1
+- waypoints v4.0.1
+- mobile-detect v1.3.5
+- jquery-parallax v.1.1.3 https://github.com/IanLunn/jQuery-Parallax.git#^1.1.3
+- jquery-date-range-picker v.0.14.2 https://github.com/longbill/jquery-date-range-picker.git#^0.14.2
+- blueimp-gallery v.2.22.0
+- eonasdan-bootstrap-datetimepicker v.4.17.43
+- unveil2 v.2.0.6
 
 You can use the [editor on GitHub](https://github.com/AtoomStudio/montiboli-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
