@@ -17,7 +17,7 @@ En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de l
 
 ##### jQuery v.12.4 - [Docs]()
 
-**html5shiv** v.7.3 - [Docs]()
+#### html5shiv v.7.3 - [Docs]()
 
 Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
 
