@@ -13,37 +13,53 @@ En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de l
 
 ## Librerías de terceros
 
-##### Bootstrap v3.3.7 - [Docs]()
+##### Bootstrap v3.3.7 - [Docs](https://github.com/twbs/bootstrap)
 
-##### jQuery v.12.4 - [Docs]()
+##### jQuery v.12.4 - [Docs](https://github.com/jquery/jquery)
 
-##### html5shiv v.7.3 - [Docs]()
+##### html5shiv v.7.3 - [Docs](https://github.com/aFarkas/html5shiv)
 
-Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
+Habilita el uso de elementos de HTML5 en IE<9
 
-##### respondJs v.4.2 - [Docs]()
+##### respondJs v.4.2 - [Docs](https://github.com/scottjehl/Respond)
 
-Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
+Habilita el uso de Media Queries de HTML5 en IE<9
 
-##### jquery-placeholder v.3.1 - [Docs]()
+##### jquery-placeholder v.3.1 - [Docs](https://github.com/mathiasbynens/jquery-placeholder)
 
-Usada para añadir la la funcionalidad del atributo de HTML5 [`placeholder`](http://www.anerbarrena.com/placeholder-html5-3971/)
+Usada para añadir la la funcionalidad del atributo de HTML5 [`placeholder`](http://www.anerbarrena.com/placeholder-html5-3971/) en navegadores que no lo soportan
 
-##### moment v2.17.1 - [Docs]()
+##### moment v2.17.1 - [Docs](http://momentjs.com/docs/)
 
-##### waypoints v4.0.1 - [Docs]()
+Librería JS de manipulación de fechas
 
-##### mobile-detect v1.3.5 - [Docs]()
+##### waypoints v4.0.1 - [Docs](http://imakewebthings.com/waypoints/guides/jquery-zepto/)
+
+Librería JS para lanzar funciones al hacer scroll a un elemento
+
+##### mobile-detect v1.3.5 - [Docs](http://hgoebl.github.io/mobile-detect.js/)
+
+Detección del dispositivo del usuario a través del User-Agent. Usado para emular la vista tablet en tablets con una resolución mayor a 1000px de ancho
 
 ##### jquery-parallax v.1.1.3 - [Docs](https://github.com/IanLunn/jQuery-Parallax)
 
+Efecto parallax en imágenes de background
+
 ##### jquery-date-range-picker v.0.14.2 - [Docs](https://github.com/longbill/jquery-date-range-picker)
 
-##### blueimp-gallery v.2.22.0 - [Docs]()
+Librería usada en el calendario de reserva. Calendario para elegir rangos de fechas.
+
+##### blueimp-gallery v.2.22.0 - [Docs](https://github.com/blueimp/Gallery)
+
+Galería de imágenes y vídeos apta para desktop y dispositivos táctiles
 
 ##### eonasdan-bootstrap-datetimepicker v.4.17.43 - [Docs]()
 
+Calendario para inputs de fecha
+
 ##### unveil2 v.2.0.6 - [Docs]()
+
+Lazy load para imágenes y imágenes de background
 
 
 You can use the [editor on GitHub](https://github.com/AtoomStudio/montiboli-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
