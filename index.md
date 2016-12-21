@@ -53,13 +53,25 @@ Librería usada en el calendario de reserva. Calendario para elegir rangos de fe
 
 Galería de imágenes y vídeos apta para desktop y dispositivos táctiles
 
-##### eonasdan-bootstrap-datetimepicker v.4.17.43 - [Docs]()
+##### eonasdan-bootstrap-datetimepicker v.4.17.43 - [Docs](https://github.com/Eonasdan/bootstrap-datetimepicker)
 
 Calendario para inputs de fecha
 
-##### unveil2 v.2.0.6 - [Docs]()
+##### unveil2 v.2.0.6 - [Docs](https://nabble.github.io/unveil2/)
 
 Lazy load para imágenes y imágenes de background
+
+Para cargar imágenes con *lazy Load* debemos asignarle una imagen cualquiera en el `src` (siempre la misma y de 1x1px per ejemplo) y la imagen real en el atributo `data-src`. All llegar a ella la imagen del `src`se sustituirá por la del `data-src`. 
+
+La librería detecta si se trata de una elemento `<img>` o no. En caso de no serlo cargará la imagen como background CSS.
+
+```html
+<!-- img -->
+<img src="pixel.png" title="" alt="" data-src="/ruta/a/la/imagen.jpg" />
+
+<!-- background-image -->
+<div data-src="/ruta/a/la/imagen.jpg">Lorem ipsum dolor sit amet.</div>
+```
 
 
 You can use the [editor on GitHub](https://github.com/AtoomStudio/montiboli-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
