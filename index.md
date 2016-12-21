@@ -17,33 +17,33 @@ En esta guía trataremos de mostrar los aspectos básicos de funcionamiento de l
 
 ##### jQuery v.12.4 - [Docs]()
 
-#### html5shiv v.7.3 - [Docs]()
+##### html5shiv v.7.3 - [Docs]()
 
 Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
 
-**respondJs** v.4.2 - [Docs]()
+##### respondJs v.4.2 - [Docs]()
 
 Cargada sólo en caso de usar una versión obsoleta de Internet Explorer
 
-**jquery-placeholder** v.3.1 - [Docs]()
+##### jquery-placeholder v.3.1 - [Docs]()
 
 Usada para añadir la la funcionalidad del atributo de HTML5 [`placeholder`](http://www.anerbarrena.com/placeholder-html5-3971/)
 
-**moment** v2.17.1 - [Docs]()
+##### moment v2.17.1 - [Docs]()
 
-**waypoints** v4.0.1 - [Docs]()
+##### waypoints v4.0.1 - [Docs]()
 
-**mobile-detect** v1.3.5 - [Docs]()
+##### mobile-detect v1.3.5 - [Docs]()
 
-**jquery-parallax** v.1.1.3 - [Docs](https://github.com/IanLunn/jQuery-Parallax)
+##### jquery-parallax v.1.1.3 - [Docs](https://github.com/IanLunn/jQuery-Parallax)
 
-**jquery-date-range-picker** v.0.14.2 - [Docs](https://github.com/longbill/jquery-date-range-picker)
+##### jquery-date-range-picker v.0.14.2 - [Docs](https://github.com/longbill/jquery-date-range-picker)
 
-**blueimp-gallery** v.2.22.0 - [Docs]()
+##### blueimp-gallery v.2.22.0 - [Docs]()
 
-**eonasdan-bootstrap-datetimepicker** v.4.17.43 - [Docs]()
+##### eonasdan-bootstrap-datetimepicker v.4.17.43 - [Docs]()
 
-**unveil2** v.2.0.6 - [Docs]()
+##### unveil2 v.2.0.6 - [Docs]()
 
 
 You can use the [editor on GitHub](https://github.com/AtoomStudio/montiboli-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
